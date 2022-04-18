@@ -3,13 +3,13 @@
 First things first, you need to ponder and prepare what cameras shall you use, actually there are lots of options:
 
 ```text
-Cameras (DSLR and Mirroless), smartphones, tablets, webcams, security cameras, trail cameras, ...  
+Cameras (DSLR and Mirroless), sports camera, smartphones, tablets, webcams, security cameras, trail cameras
 ```
 
 Secondly, there are some accesories can significantly boost your productivity:
 
 ```text
-Tripods, vlog tripods, external mics, bikes, skateboards, external SSDs, NAS or RAID,Ray-Ban
+Tripods, vlog tripods, external mics, bikes, skateboards, external SSDs, NAS or RAID, Ray-Ban
 ```
 
 如果你预计将被隔离很久，建议同样采购好下列内容：
