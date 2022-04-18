@@ -9,7 +9,7 @@ What is [DSLR](https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera)?
 Secondly, there are some accesories can significantly boost your productivity:
 
 ```text
-Tripods, vlog tripods, external mics, bikes, skateboards, external SSDs, NAS or RAID, Ray-Ban
+Tripods, vlog tripods, external mics, transportation offers you planar movements (namely, bikes and skateboards) , external SSDs, NAS or RAID, Ray-Ban
 ```
 
 Thirdly, you need video editing softwares
