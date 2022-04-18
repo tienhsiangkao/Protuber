@@ -18,10 +18,9 @@ Thirdly, you need video editing softwares
 Pro-level editors (one of Davinci Resolve, Premiere Pro, and Final Cut Pro X for Mac users)
 ```
 
-如果你非常想追求形式化、标准化和仪式感，并且想拥有一个与众不同的有趣厨房，那就同样采购下列内容：
-
+If you have at 6 digits in the bank, these specific items (not sponsored) will help your performance a lot:
 ```text
-电子秤（或天平）、游标卡尺、量筒、停表、烧杯、测温枪、移液器
+Sony ILME-FX3 with 16-35mm G master lens
 ```
 
 如果你想节约时间，可以购买半成品并简单处理后食用：

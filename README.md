@@ -21,7 +21,7 @@ How to YouTube like a programmer.
 ## Before you start
 
 - [Preparations](./tips/preps.md)
-- [如何选择现在吃什么](./tips/如何选择现在吃什么.md)
+- [Common mistakes](./tips/common_mistakes.md)
 - [上海买菜指南](./tips/上海买菜指南.md)
 - [高压力锅](./tips/learn/高压力锅.md)
 - [食品安全](./tips/learn/食品安全.md)
