@@ -3,7 +3,7 @@
 First things first, you need to ponder and prepare what cameras shall you use, actually there are lots of options:
 
 ```text
-Cameras (DSLR and Mirroless), sports camera, smartphones, tablets, webcams, security cameras, trail cameras
+Cameras (DSLR and Mirroless), sports camera, smartphones, tablets, webcams, security cameras, trail cameras, virtual cameras (e.g. from video games and their engines, animation creators like manim)
 ```
 
 Secondly, there are some accesories can significantly boost your productivity:
@@ -12,11 +12,10 @@ Secondly, there are some accesories can significantly boost your productivity:
 Tripods, vlog tripods, external mics, bikes, skateboards, external SSDs, NAS or RAID, Ray-Ban
 ```
 
-如果你预计将被隔离很久，建议同样采购好下列内容：
+Thirdly, you need video editing softwares
 
 ```text
-冰箱、微波炉、保鲜膜、保鲜袋
-鸡蛋、青椒、胡萝卜、黄瓜、西红柿、木耳、里脊肉、茄子、米、挂面或方便面
+Pro-level editors (one of Davinci Resolve, Premiere Pro, and Final Cut Pro X for Mac users)
 ```
 
 如果你非常想追求形式化、标准化和仪式感，并且想拥有一个与众不同的有趣厨房，那就同样采购下列内容：
