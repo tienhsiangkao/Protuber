@@ -5,7 +5,7 @@ First things first, you need to ponder and prepare what cameras shall you use, a
 ```text
 Cameras ([DSLR](https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera) and [Mirroless](https://en.wikipedia.org/wiki/Mirrorless_camera)), sports camera, smartphones, tablets, webcams, security cameras, trail cameras, virtual cameras (e.g. from video games and their engines, animation creators like manim)
 ```
-
+What is [DSLR](https://en.wikipedia.org/wiki/Digital_single-lens_reflex_camera)?
 Secondly, there are some accesories can significantly boost your productivity:
 
 ```text
