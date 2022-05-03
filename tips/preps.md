@@ -1,6 +1,6 @@
 # Genesis
 
-First things first, you need to ponder and prepare what cameras shall you use, actually there are lots of options:
+First things first, you need to ponder and choose what cameras shall you use carefully, actually there are lots of options:
 
 ```text
 Cameras (DSLR and mirrorless), sports camera, smartphones, tablets, webcams, security cameras, trail cameras, virtual cameras (e.g. from video games and their engines, animation creators like manim)
@@ -22,11 +22,3 @@ If you have at 6 digits in the bank, these specific items (not sponsored) will h
 ```text
 Sony ILME-FX3 with 16-35mm G master lens
 ```
-
-如果你想节约时间，可以购买半成品并简单处理后食用：
-
-```text
-预炸过的炸鸡块、冷冻手抓饼、包好的饺子、袋装咖喱、各种丼类（盖饭）、自热食品、拌面料包、方便食品
-```
-
-其它针对每道菜的原材料，请具体参考菜品本身的`所需原材料`章节。
