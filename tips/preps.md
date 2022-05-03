@@ -18,7 +18,7 @@ Thirdly, you need video editing softwares
 Pro-level editors (one of Davinci Resolve, Premiere Pro, and Final Cut Pro X for Mac users)
 ```
 
-If you have at 6 digits in the bank, these specific items (not sponsored) will help your performance a lot:
+If you have at least 6 digits in the bank, these specific items (not sponsored) will help your performance a lot:
 ```text
 Sony ILME-FX3 with 16-35mm G master lens
 ```
