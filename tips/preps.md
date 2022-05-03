@@ -1,6 +1,6 @@
 # Genesis
 
-First things first, you need to ponder and choose what cameras shall you use carefully, actually there are lots of options:
+First things first, you need to ponder and choose what cameras you shall use carefully, actually there are lots of options:
 
 ```text
 Cameras (DSLR and mirrorless), sports camera, smartphones, tablets, webcams, security cameras, trail cameras, virtual cameras (e.g. from video games and their engines, animation creators like manim)
